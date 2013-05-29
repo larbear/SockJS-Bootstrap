@@ -7,7 +7,7 @@ var username = "bootstrap";
 var useSSL = true;
 
 var
-  fs = require( "fs" ),
+	fs = require( "fs" ),
 	http = require( "http" ),
 	https = require( "https" );
 
